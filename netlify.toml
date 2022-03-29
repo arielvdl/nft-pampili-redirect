@@ -8,4 +8,8 @@
 
 
 [[redirects]]
- / https://unlock3.com/go/112  200
+
+  from = "/"
+    to = "https://unlock3.com/go/112"
+    status = 301
+    force = true
